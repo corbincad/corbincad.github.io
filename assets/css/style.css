@@ -1,0 +1,109 @@
+body {
+
+    background-color: lightgrey;
+}
+
+
+
+header {
+
+    color: rgb(170, 170, 255);
+    background-color: grey;
+    text-align: left;
+    font-size: 75px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 50px;
+    font-family: verdana;
+    padding-left: 16%;
+    box-shadow: 5px 5px black;
+    text-shadow: 5px 5px black ;
+    letter-spacing: 3px; 
+}
+
+h2 {
+    
+    font-size: 26px;
+    color: rgb(170, 170, 255);
+    background-color: grey;
+    text-align: center;
+    margin-left: 86%;
+    padding: 5px;
+    border-radius: 30px;
+    box-shadow: 5px 5px black;
+    margin-right: 15px;
+    text-shadow: 1.5px 1.5px black;
+} 
+
+p {
+
+    background-color: lightslategrey;
+    color: white;
+    padding: 70px;
+    border-radius: 150px;
+    font-size: 29.5px;
+    font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 2px;
+    line-height: 50px;
+}
+
+ul {
+
+    color: lightslategrey;
+    font-size: 50px;
+    background-color: lightslategrey;
+    
+}
+
+li {
+
+    margin-right: 200x;
+    display: inline;
+}
+
+#portfolio {
+
+    margin-left: 500px;
+}
+
+img {
+
+    height: 500px;
+    float: right;
+    border: 10px solid black;
+    border-radius: 30px;
+}
+
+img:hover {
+
+    height: 600px;
+    border: 10px solid blue;
+}
+
+a {
+
+    padding: 0px;
+    font-size: 50px;
+    color: black;
+}
+
+a:hover {
+
+    color: blue;
+}
+
+footer {
+
+    background-color: black;
+}
+
+#contact {
+
+    padding-left: 500px;
+}
+
+#github {
+
+    padding-left: 50px;
+}
+

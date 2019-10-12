@@ -1,0 +1,32 @@
+body {
+
+    background-color:lightslategrey;
+}
+
+h {
+
+    background-color: white;
+    font-size: 50px;
+    padding: 25px;
+    border-radius: 25px;
+    margin: 50px;
+    paddings-top: 50px;
+    
+}
+
+li {
+
+    display: inline;
+}
+
+ul {
+
+    margin-top: 50px;
+    padding: 200px;
+    padding-left: 200px;
+}
+
+#rightvideo {
+
+    padding-left: 200px;
+}
