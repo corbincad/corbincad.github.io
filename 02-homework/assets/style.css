@@ -1,0 +1,99 @@
+body {
+
+    height: 100%;
+}
+
+.jumbotron {
+
+    height: 200px;
+}
+
+.col-md-4 {
+
+    border: 5px solid lightcoral;
+    margin: 75px;
+    margin-left: 25%;
+    margin-top: -475px;
+    font-size: 20px;
+    padding: 18px;
+    box-shadow: 10px 10px 10px black;
+}
+
+#personalbio {
+
+    color:darkslateblue;
+    float: left;
+    font-size: 75px;
+    padding: 20px;
+}
+
+img {
+
+    opacity: .80;
+    height: 500px;
+    border-radius: 25px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.col-sm-8 {
+
+    margin-top: 40px;
+}
+
+#personalbio:hover {
+
+    color: rgb(143, 125, 255);
+    margin: 0px;
+    border-radius: 50px;
+    text-shadow: 5px 5px 5px black;
+}
+
+img:hover {
+
+    opacity: 100;
+    height: 550px;
+    border: 10px solid lightcoral;
+    box-shadow: 15px 15px 15px black;
+}
+
+footer {
+
+    height: 75px;
+}
+
+a {
+
+    padding: 100px;
+}
+
+iframe {
+
+    padding: 200px;
+    box-shadow: 10px 10px 10px black;
+    background-color: lightsteelblue
+}
+
+#container {
+
+    float: right;
+    margin-top: -600px;
+    margin-right: 70px;
+}
+
+#container :last-child {
+
+    padding: 30px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+#container :last-child:hover {
+
+    height: 250px;
+    border: 10px solid lightcoral;
+    box-shadow: 20px 20px 20px black;
+}
+
+
+
