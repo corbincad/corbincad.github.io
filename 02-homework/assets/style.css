@@ -22,7 +22,6 @@ body {
 .col-md-4:hover {
 
     border-radius: 30px;
-    zoom: 1.1
 }
 
 #personalbio {
@@ -93,7 +92,7 @@ iframe {
     margin-top: 30px;
 }
 
-#container :last-child:hover {
+#container:hover {
 
     height: 250px;
     border: 10px solid lightcoral;
@@ -132,11 +131,13 @@ iframe {
     margin-top: -65px;
     color: darkslateblue;
     text-align: center;
+
+    
 }
 
 #birthday:hover {
 
-    text-shadow: 15px 15px 15px black;
+    text-shadow: 10px 10px 15px black;
 }
 
 

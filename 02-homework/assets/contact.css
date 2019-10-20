@@ -2,3 +2,25 @@ form {
 
     margin: 100px;
 }
+
+.jumbotron {
+
+    font-size: 50px;
+    border-radius: 50px;
+    
+}
+
+#body {
+
+    background-color: lightslategray;
+}
+
+#p {
+
+    color: black;
+}
+
+.jumbotron:hover {
+
+    box-shadow: 10px 10px 10px black;
+}
